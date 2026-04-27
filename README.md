@@ -1,7 +1,7 @@
 # 🎓 Software Quality Assurance (SQA) Certification
 
 ## 📌 Overview
-I am pleased to share that I have successfully completed the **Software Quality Assurance (SQA)** course from **Ostad.com**.  
+I am pleased to share that I have successfully completed the **Manual & Automated Testing** course from **ostad.com**  
 This certification reflects my growing expertise in software testing, quality assurance processes, and industry-standard QA tools.
 
 ---
